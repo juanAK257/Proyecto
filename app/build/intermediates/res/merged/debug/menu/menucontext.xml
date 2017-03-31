@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menucontext1"
+        android:title="Eliminar Contacto"></item>
+    <item android:id="@+id/menucontext2"
+        android:title="Modificar Contacto"></item>
+    <item android:id="@+id/menucontext3"
+        android:title="Llamar por telefono"></item>
+    <item android:id="@+id/menucontext4"
+        android:title="Enviar por correo"></item>
+
+</menu>
